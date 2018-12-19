@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+
+    <!--Secondary colors are best for:-->
+
+    <!--Floating action buttons-->
+    <!--Selection controls, like sliders and switches-->
+    <!--Highlighting selected text-->
+    <!--Progress bars-->
+    <!--Links and headlines-->
+    <color name="colorSecondary">#03DAC6</color>
+    <!--Secondary color can have dark and light variants-->
+    <color name="colorSecondaryVariant">#018786</color>
+
+
+    <!--The background color appears behind scrollable content.-->
+    <color name="colorBackground">#f5f5f5</color>
+    <!--Surface colors affect surfaces of components, such as cards, sheets, and menus.-->
+    <color name="colorSurface">#FFFFFF</color>
+    <!--Error color indicates errors components, such as text fields-->
+    <color name="colorError">#B00020</color>
+
+    <!--Typography and iconography colors-->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+</resources>

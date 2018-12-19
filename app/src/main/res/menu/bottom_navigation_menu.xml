@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/item1" android:icon="@drawable/ic_home" android:title="Item 1"/>
+<item android:id="@+id/item2" android:icon="@drawable/ic_time" android:title="Item 2"/>
+<item android:id="@+id/item3" android:icon="@drawable/ic_menu" android:title="Item 3"/>
+<item android:id="@+id/item4" android:icon="@drawable/ic_public" android:title="Item 4"/>
+<item android:id="@+id/item5" android:icon="@drawable/ic_wallets" android:title="Item 5"/>
+</menu>
